@@ -1,0 +1,45 @@
+Maven
+================
+It is build/project management tool
+developed by apache
+followed by developers and testers both
+
+=================================
+Maven Project execution
+=================================
+
+1. using pom.xml
+2. using CLI (command line interface)
+=====================================
+download maven on local machine
+https://maven.apache.org/download.cgi?.
+3. using jenkins
+
+====================
+setup
+====================
+1. need to add plugins
+=======================
+1. complier plugin
+https://maven.apache.org/plugins/maven-compiler-plugin/
+2. Surefire Plugin
+https://maven.apache.org/surefire/maven-surefire-plugin/
+
+========================================
+2. Goals to execute maven
+========================================
+Goals(Actions)
+1. clean
+========================
+To delete reports from target folder
+
+2. test
+==================
+To test project
+
+===================================
+3. install
+=====================================
+installation of required files + test
+
+https://maven.apache.org/guides/
